@@ -1,2 +1,2 @@
 # PYTHON
-Python projects
+Project Euler : https://projecteuler.net
